@@ -1,6 +1,6 @@
 ##GitHub同步开发流程
 项目A用**[A]**表示，项目A的仓库路径用**{A}**表示
-1. 首先fork项目[A]
+1. 首先fork项目**[A]**
 2. 把fork过去的项目也就是你的项目clone到你的本地
 3. 在命令行运行 git branch develop 来创建一个新分支
 4. 运行 git checkout develop 来切换到新分支
