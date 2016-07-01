@@ -1,4 +1,4 @@
-#GitHub同步开发流程
+## GitHub同步开发流程
 1. 首先fork我的项目
 2. 把fork过去的项目也就是你的项目clone到你的本地
 3. 在命令行运行 git branch develop 来创建一个新分支
