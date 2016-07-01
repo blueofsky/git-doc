@@ -1,5 +1,5 @@
 #GitHub同步开发流程
-*首先fork我的项目
+* 首先fork我的项目
 把fork过去的项目也就是你的项目clone到你的本地
 在命令行运行 git branch develop 来创建一个新分支
 运行 git checkout develop 来切换到新分支
