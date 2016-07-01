@@ -1,4 +1,4 @@
 # Summary
 
-* Git 文档翻译
+* GitHub同步开发流程
 
